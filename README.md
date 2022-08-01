@@ -1,12 +1,10 @@
 # TOD_TicTacToe
-This is a project from the full stack curriculum 'The Odin Project' - Organizing your Javascript Code
+This is a project from the full stack curriculum 'The Odin Project' - NodeJS (Express and Mongoose)
 ## Demo link
-Play game on this link --> https://todtictactoe.netlify.app/
+Try demo here --> https://secret-ridge-58195.herokuapp.com/
 ## About The App
-A simple 1v1 TicTacToe game. Field the inputs with your names and start playing!
-## Screenshots 
-![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/64644550/181903694-262eb96a-f78c-4332-92cb-342c7b30d5b0.gif)
+A message board where you can add a new message that will be displayed on the main page
 ## Technologies
-**HTML** - **CSS** - **JAVASCRIPT**
+**NodeJS** - **Express**
 ## What I Learned
-This project helped me to reinforce my javascript basics and helped me to grasp the concept of factory functions and the module pattern which is a way to structure and organize your code base.
+This is a simple project but as a first approach to backend programming it helped me to understand how requests/responses work, routes, wien engines and the benefits of using Express.
